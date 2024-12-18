@@ -1,0 +1,6 @@
+flask
+transformers
+torch
+pandas
+numpy
+sqlite3
